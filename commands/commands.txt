@@ -1,0 +1,9 @@
+command to start frontend: npm run dev
+#--------------------------------------
+rfce : for basic react starter code
+#-----------------
+first command in server directory:
+npm init -y
+#-----------
+command to start the server
+npm start
